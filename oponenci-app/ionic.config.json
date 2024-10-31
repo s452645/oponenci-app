@@ -1,0 +1,7 @@
+{
+  "name": "oponenci-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
